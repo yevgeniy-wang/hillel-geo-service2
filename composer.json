@@ -1,0 +1,12 @@
+{
+  "name": "yevgeniy/geoservice2",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\GeoService2\\": "./src"
+    }
+  },
+  "require": {
+    "yevgeniy/geointerface" : "^1.0.0",
+    "illuminate/support": "^v8.33.0"
+  }
+}
